@@ -1,0 +1,77 @@
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\bin\Debug\Cloud_Shopping_Mall.exe.config
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\bin\Debug\Cloud_Shopping_Mall.exe
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\bin\Debug\Cloud_Shopping_Mall.pdb
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.csprojAssemblyReference.cache
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.Properties.Resources.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.HomePage.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.csproj.GenerateResource.cache
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.csproj.CoreCompileInputs.cache
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.exe
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.pdb
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.LoginPage.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.AdminRegistation.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.Register.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.EmployeeReg.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.CustomerReg.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.ForgetPassword.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.AdminPortal.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.EmployeePortal.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.EmployeeList.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.EmployeeManagement.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.removeEmployee.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.ShopManagement.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.ShopReg.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.Remove_Shop.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.ShopList.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.updateShop.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.updateAdmin.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.DeleteAdmin.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.AllAdmin.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.CustomerManagement.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.ProductManagement.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.AddProduct.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.Customer_Portal.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.RemoveProduct.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.UpdateProduct.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.ProductList.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.CustomerList.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.RemoveCustomer.resources
+H:\C# Practice\Cloud Shopping Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.order.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\bin\Debug\Cloud_Shopping_Mall.exe.config
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.exe
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.pdb
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\bin\Debug\Cloud_Shopping_Mall.exe
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\bin\Debug\Cloud_Shopping_Mall.pdb
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.Properties.Resources.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.AddProduct.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.AdminPortal.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.AdminRegistation.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.AllAdmin.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.Customer_Portal.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.CustomerList.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.CustomerManagement.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.CustomerReg.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.DeleteAdmin.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.EmployeeList.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.EmployeeManagement.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.EmployeePortal.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.EmployeeReg.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.ForgetPassword.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.HomePage.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.LoginPage.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.order.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.ProductList.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.ProductManagement.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.Register.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.Remove_Shop.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.RemoveCustomer.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.removeEmployee.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.RemoveProduct.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.ShopList.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.ShopManagement.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.ShopReg.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.updateAdmin.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.UpdateProduct.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.View.updateShop.resources
+C:\Users\HP\Downloads\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall-master\Cloud_Shopping_Mall\Cloud_Shopping_Mall\obj\Debug\Cloud_Shopping_Mall.csproj.GenerateResource.Cache

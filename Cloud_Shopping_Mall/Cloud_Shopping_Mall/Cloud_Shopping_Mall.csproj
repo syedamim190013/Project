@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{10C7EEC6-1CFF-453C-B3F3-7DBC0205198E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Cloud_Shopping_Mall</RootNamespace>
+    <AssemblyName>Cloud_Shopping_Mall</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\AdminController.cs" />
+    <Compile Include="Controller\CustomerController.cs" />
+    <Compile Include="Controller\EmployeeController.cs" />
+    <Compile Include="Controller\OrderController.cs" />
+    <Compile Include="Controller\ProductController.cs" />
+    <Compile Include="Controller\ShopController.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Admin.cs" />
+    <Compile Include="Model\Admins.cs" />
+    <Compile Include="Model\Customer.cs" />
+    <Compile Include="Model\Customers.cs" />
+    <Compile Include="Model\Database.cs" />
+    <Compile Include="Model\Employee.cs" />
+    <Compile Include="Model\Employees.cs" />
+    <Compile Include="Model\Order.cs" />
+    <Compile Include="Model\Orders.cs" />
+    <Compile Include="Model\Product.cs" />
+    <Compile Include="Model\Products.cs" />
+    <Compile Include="Model\Shop.cs" />
+    <Compile Include="Model\Shops.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AddProduct.Designer.cs">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\AdminPortal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AdminPortal.Designer.cs">
+      <DependentUpon>AdminPortal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\AdminRegistation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AdminRegistation.Designer.cs">
+      <DependentUpon>AdminRegistation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\AllAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AllAdmin.Designer.cs">
+      <DependentUpon>AllAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Customer Portal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Customer Portal.Designer.cs">
+      <DependentUpon>Customer Portal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CustomerList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CustomerList.Designer.cs">
+      <DependentUpon>CustomerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CustomerManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CustomerManagement.Designer.cs">
+      <DependentUpon>CustomerManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CustomerReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CustomerReg.Designer.cs">
+      <DependentUpon>CustomerReg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\DeleteAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\DeleteAdmin.Designer.cs">
+      <DependentUpon>DeleteAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\EmployeeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\EmployeeList.Designer.cs">
+      <DependentUpon>EmployeeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\EmployeeManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\EmployeeManagement.Designer.cs">
+      <DependentUpon>EmployeeManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\EmployeePortal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\EmployeePortal.Designer.cs">
+      <DependentUpon>EmployeePortal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\EmployeeReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\EmployeeReg.Designer.cs">
+      <DependentUpon>EmployeeReg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ForgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ForgetPassword.Designer.cs">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\LoginPage.Designer.cs">
+      <DependentUpon>LoginPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\order.Designer.cs">
+      <DependentUpon>order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ProductList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ProductList.Designer.cs">
+      <DependentUpon>ProductList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ProductManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ProductManagement.Designer.cs">
+      <DependentUpon>ProductManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Remove Shop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Remove Shop.Designer.cs">
+      <DependentUpon>Remove Shop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\RemoveCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\RemoveCustomer.Designer.cs">
+      <DependentUpon>RemoveCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\removeEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\removeEmployee.Designer.cs">
+      <DependentUpon>removeEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\RemoveProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\RemoveProduct.Designer.cs">
+      <DependentUpon>RemoveProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ShopList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ShopList.Designer.cs">
+      <DependentUpon>ShopList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ShopManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ShopManagement.Designer.cs">
+      <DependentUpon>ShopManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ShopReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ShopReg.Designer.cs">
+      <DependentUpon>ShopReg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\updateAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\updateAdmin.Designer.cs">
+      <DependentUpon>updateAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UpdateProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\UpdateProduct.Designer.cs">
+      <DependentUpon>UpdateProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\updateShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\updateShop.Designer.cs">
+      <DependentUpon>updateShop.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\AddProduct.resx">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AdminPortal.resx">
+      <DependentUpon>AdminPortal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AdminRegistation.resx">
+      <DependentUpon>AdminRegistation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AllAdmin.resx">
+      <DependentUpon>AllAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Customer Portal.resx">
+      <DependentUpon>Customer Portal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CustomerList.resx">
+      <DependentUpon>CustomerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CustomerManagement.resx">
+      <DependentUpon>CustomerManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CustomerReg.resx">
+      <DependentUpon>CustomerReg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\DeleteAdmin.resx">
+      <DependentUpon>DeleteAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\EmployeeList.resx">
+      <DependentUpon>EmployeeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\EmployeeManagement.resx">
+      <DependentUpon>EmployeeManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\EmployeePortal.resx">
+      <DependentUpon>EmployeePortal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\EmployeeReg.resx">
+      <DependentUpon>EmployeeReg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ForgetPassword.resx">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\LoginPage.resx">
+      <DependentUpon>LoginPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\order.resx">
+      <DependentUpon>order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ProductList.resx">
+      <DependentUpon>ProductList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ProductManagement.resx">
+      <DependentUpon>ProductManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Remove Shop.resx">
+      <DependentUpon>Remove Shop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\RemoveCustomer.resx">
+      <DependentUpon>RemoveCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\removeEmployee.resx">
+      <DependentUpon>removeEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\RemoveProduct.resx">
+      <DependentUpon>RemoveProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ShopList.resx">
+      <DependentUpon>ShopList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ShopManagement.resx">
+      <DependentUpon>ShopManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ShopReg.resx">
+      <DependentUpon>ShopReg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\updateAdmin.resx">
+      <DependentUpon>updateAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UpdateProduct.resx">
+      <DependentUpon>UpdateProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\updateShop.resx">
+      <DependentUpon>updateShop.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HomePage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\29nhJr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\join-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purple-background-registration.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tech-background-image-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\management.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoginBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blur-shopping-mall_1203-8327.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16668.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rm27-ning-48-wood.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\discount-background-sale-vector-9280811.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_119127780-stock-photo-blurred-abstract-background-of-people.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
